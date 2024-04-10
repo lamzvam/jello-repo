@@ -1,6 +1,8 @@
 <title id="11">5.0.0 Beta 11 Update
 <desc id="11">Better discord RPC
 <desc id="11">Huge performance improvement
+<desc id="11">Fixed ClickGUI missclick while settingBox was opened and click on numberSlider or BooleanTick
+<desc id="11">Improved KeyMappings, now can just type rshift, lshift, lcontrol, rcontrol...
 <title id="10">5.0.0 Beta 10 Update
 <desc id="10">Improve Compass
 <desc id="10">Improve ActiveMods
